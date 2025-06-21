@@ -3,9 +3,7 @@
 # 💫 About Me :
 
 I'm Dom (Nguyen Dai Thang)
-I am a middle software engineer about developing website/app. With knowledge in full-stack development, I offer the best projects resulting in quality work. I am constantly learning and improving my skills to stay up-to-date with the latest technologies and trends.
-
-A software engineer in web development. I have experience about developing for TechFin company. Here, I share my knowledge and experience about front-end and back-end in web development. I hope you find it helpful.
+I am a Frontend Developer with nearly 2 years of experience in building Modern web applications using React.js and Next.js. Passionate about solving UI/UX challenges and developing scalable, maintainable products. Proactive in learning and applying modern technologies, recently expanding into DevOps and backend tools like Docker, GitHub Actions, Redis, and more.
 
 ## 🌐 Socials
 
