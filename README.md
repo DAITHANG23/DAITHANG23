@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 
-I'm Dom (Nguyen Dai Thang). 
+I'm Dom (Nguyen Dai Thang).  
 I am a Frontend Developer with nearly 2 years of experience in building Modern web applications using React.js and Next.js. Passionate about solving UI/UX challenges and developing scalable, maintainable products. Proactive in learning and applying modern technologies, recently expanding into DevOps and backend tools like Docker, GitHub Actions, Redis, and more.
 
 ## 🌐 Socials
