@@ -15,10 +15,10 @@ I am a Frontend Developer with 2 years of experience in building Modern web appl
 
 ## 📊 GitHub Stats :
 
+![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DAITHANG23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAITHANG23&theme=radical)](https://github.com/DAITHANG23)<br/>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAITHANG23&theme=radical)](https://github.com/DAITHANG23)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAITHANG23&theme=radical)](https://github.com/DAITHANG23)<br/>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAITHANG23&theme=radical)](https://github.com/DAITHANG23)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DAITHANG23&theme=radical&utcOffset=7)](https://github.com/DAITHANG23)<br/>
-![](https://streak-stats.demolab.com/?user=DAITHANG23&theme=radical&hide_border=false)<br/>
-[![](https://github-profile-trophy.vercel.app/?username=DAITHANG23&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/DAITHANG23)
+![](https://streak-stats.demolab.com/?user=DAITHANG23&theme=radical&hide_border=false)
